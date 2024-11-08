@@ -9,6 +9,12 @@
 ##### Tiêu đề cấp 5
 ###### Tiêu đề cấp 6
 
+Tiêu đề cấp 1
+============
+
+Tiêu đề cấp 2
+--------------
+
 ## 2. In đậm và in nguyên
 
 **In đậm**
@@ -62,19 +68,6 @@ ___
 
 Sử dụng dấu | để tạo bảng. <br>
 Cột 1| Cột 2 | Cột 3
-
-# Alternate Syntax
-
-Heading level 1
-=============
-
-Heading level 2
----------------
-
-*itqnu* <br>
-**itqnu**
-
-___
 
 # Sử dụng đươc PlanText để vẽ 3 loại biểu đồ cơ bản, dùng tính năng LinkMaker để export link
 ### 1. Biểu đồ lớp
