@@ -77,7 +77,7 @@ Heading level 2
 ___
 
 # Sử dụng đươc PlanText để vẽ 3 loại biểu đồ cơ bản, dùng tính năng LinkMaker để export link
-### 1. Biểu đồ lớp (Class diagram) 
+### 1. Biểu đồ lớp
 
 ![Biểu đồ lớp](https://www.planttext.com/api/plantuml/png/UhzxlqDnIM9HIMbk3bToJc9niO9ZNcPkOev2DPS24FWbvgOgM2a4bnHbvgM3HHpJGGAPUILWdczYTcfmVcbUYeOcKBGiFpE5gvOBQf1BVZhK5AUYrDGKL6ES4ekoiUXnJYo1wd4hBNBEpyalGjNccvfVZg8DwbgR6brTa8KeVA1XN0wfUIaWlm40003__mC0)
 
