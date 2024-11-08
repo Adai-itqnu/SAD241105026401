@@ -1,7 +1,7 @@
 # Các câu lệnh sử dụng MarkDown cơ bản
 
 ## 1. Tiêu đề (Header)
-- Có 2 cách ghi
+**Có 2 cách ghi**
 + Cách 1 dùng (#) có 6 cấp độ tương ứng như sau
 
 # Tiêu đề cấp 1
