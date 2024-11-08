@@ -3,13 +3,16 @@
 ## 1. Tiêu đề (Header)
 - Có 2 cách ghi
 + Cách 1 dùng (#) có 6 cấp độ tương ứng như sau
+
 # Tiêu đề cấp 1
 ## Tiêu đề cấp 2
 ### Tiêu đề cấp 3
 #### Tiêu đề cấp 4
 ##### Tiêu đề cấp 5
 ###### Tiêu đề cấp 6
-- Cách 2 dùng (=== hoặc ---)
+
+- Cách 2 dùng (=== hoặc ---) <br>
+
 Tiêu đề cấp 1
 ============
 
