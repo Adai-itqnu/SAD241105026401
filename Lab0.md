@@ -78,12 +78,18 @@ Cột 1| Cột 2 | Cột 3
 
 ![Biểu đồ lớp](https://www.planttext.com/api/plantuml/png/UhzxlqDnIM9HIMbk3bToJc9niO9ZNcPkOev2DPS24FWbvgOgM2a4bnHbvgM3HHpJGGAPUILWdczYTcfmVcbUYeOcKBGiFpE5gvOBQf1BVZhK5AUYrDGKL6ES4ekoiUXnJYo1wd4hBNBEpyalGjNccvfVZg8DwbgR6brTa8KeVA1XN0wfUIaWlm40003__mC0)
 
+Mô tả: Biểu đồ này thể hiện mối quan hệ cha con giữa lớp Animal và các lớp Dog, Cat.
+
 ### 2. Biểu đồ trình tự (Sequence Diagram)
 
 ![Biểu đồ trình tự](https://www.planttext.com/api/plantuml/png/UhzxlqDnIM9HIMbk3fTZJcPogeAkdO9JVfALGaHcda9onk45-JeWlY8Na53G1Kg2LQ58WqKKqRJx75wGgr2IyN3NVeKye2g58nCVxcu62UpUcAoGaVbmTtkUGXc8IWPA7TviZsv-oE4jcGh53tVjLSWujk7XxjbvwGef3tUjpbD8UhXhOPuYbqDgNWh8qG00003__mC0)
 
+Mô tả: Biểu đồ này minh họa một cuộc hội thoại đơn giản giữa hai đối tượng Alice và Bob trong một luồng trình tự.
+
 ### 3. Biểu đồ trường hợp sử dụng (Use Case Diagram)
 
 ![Biểu đồ trường hợp sử dụng](https://www.planttext.com/api/plantuml/png/UhzxlqDnIM9HIMbk3bTYSab-aK9eSMeHbEcOafkPnyLLMfoQd5YSgg1qPCAHvhnqXRoCXxlM5YWf91OhX3eR8gG3In_kMfoda7Duhq9U-h4D3tVFpLH8ERmpBnsgr0YXD28rLo7fyC9yXMGW0PKsvk82sQsWgsi7DXTiErQU4R92Oow7rBmKaFi10000__y30000)
+
+Mô tả: Biểu đồ này mô tả các trường hợp sử dụng cho hai vai trò User và Admin.
 
 
