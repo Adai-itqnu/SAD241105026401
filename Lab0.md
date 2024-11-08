@@ -85,4 +85,8 @@ ___
 
 ![Biểu đồ trình tự](https://www.planttext.com/api/plantuml/png/UhzxlqDnIM9HIMbk3fTZJcPogeAkdO9JVfALGaHcda9onk45-JeWlY8Na53G1Kg2LQ58WqKKqRJx75wGgr2IyN3NVeKye2g58nCVxcu62UpUcAoGaVbmTtkUGXc8IWPA7TviZsv-oE4jcGh53tVjLSWujk7XxjbvwGef3tUjpbD8UhXhOPuYbqDgNWh8qG00003__mC0)
 
+### 3. Biểu đồ trường hợp sử dụng
+
+![Biểu đồ trường hợp sử dụng](https://www.planttext.com/api/plantuml/png/UhzxlqDnIM9HIMbk3bTYSab-aK9eSMeHbEcOafkPnyLLMfoQd5YSgg1qPCAHvhnqXRoCXxlM5YWf91OhX3eR8gG3In_kMfoda7Duhq9U-h4D3tVFpLH8ERmpBnsgr0YXD28rLo7fyC9yXMGW0PKsvk82sQsWgsi7DXTiErQU4R92Oow7rBmKaFi10000__y30000)
+
 
