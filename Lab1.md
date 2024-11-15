@@ -75,8 +75,32 @@
    - TimecardRepository: Lưu trữ và quản lý truy xuất dữ liệu thẻ thời gian của nhân viên.
 
 3. ** Biểu đồ Sequence **
+   
    - Biểu đồ dưới đây mô tả quy trình thêm hoặc sửa thẻ thời gian cho nhân viên.
-     
+![Diagram](https://www.planttext.com/api/plantuml/png/UhzxlqDnIM9HIMbk3bTYSab-aO9hRa5EVcLgga9YiK9gRW4N42lesYc4PEQc9YSMfGId5fLb9gSgM2c4P1nUbQiV_73tsaI5aeo7ktQ3oDrpCnNICnFpkD3L0us0cHoKMf1Vd0cqgn9eYdVcmztDkGebHI133c_9IrSeoSnJoCiul2XFeIppyAeyBYpQT74v29j-B2w12Q6unEVOXb9aDs3woI4rBmKKK000003__mC0)     
+
+## 5. Hợp nhất kết quả phân tích
+Sau khi phân tích chi tiết hai ca sử dụng `Select Payment Method` và `Maintain Timecard`, chúng ta có thể kết hợp các lớp và dịch vụ thành một cấu trúc hệ thống nhất quán cho "Payroll System".
+
+**Tổng kết cấu trúc hệ thống:**
+
+   - Các dịch vụ như `PaymentService`, `TimecardService`, và `EmployeeService` trong tầng Application sẽ chịu trách nhiệm xử lý các nghiệp vụ chính.
+   - Tầng Data sẽ quản lý việc lưu trữ thông tin nhân viên, thanh toán và thẻ thời gian với các lớp repository tương ứng.
+   - Tầng `Presentation` đảm nhiệm vai trò hiển thị thông tin và cung cấp giao diện cho người dùng.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
