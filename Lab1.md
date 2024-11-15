@@ -60,15 +60,23 @@
 
 3. **Biểu đồ Sequence**
    - Biểu đồ này mô tả quy trình chọn phương thức thanh toán của nhân viên.
-![Biểu đồ Sequence](https://www.planttext.com/api/plantuml/png/UhzxlqDnIM9HIMbk3bTYSab-aO9hRa5EVcLgga9YiK8gLwg2hfr2G69bRcfUIN1gKLbcSgg2bO9pniFTlNaA1Hd7DXnRc9UkK0Bahqm6Kebv6Geb-OSNvd6XwG6Q0ZCuABKWlpWJQ5Kbq2IVXxkMLW8r7ju2CYOpJo4lu_2YF8MopCEhyhYmwD35vfmGxDendG0LyKqjoSXF0VdZuQwr1K0zGAg4HDz0HL0zSsn3AJvZ578VxfwToUMGcfS22cy00000__y30000)
+![Biểu đồ Sequence](https://www.planttext.com/api/plantuml/png/R9A_QW8n7CVtF4LmKj0Nw514ALr4IZtSunakeNU_7BaelT6fSn-Wu5LAGH0wTBeREWHyZpn1Nw6_M0_FrY4G-7w-VmZvhhxwcM7QB9AOiD0eJM-ID5OvvvHb59OaHL66CcLWQEkEvGa7C-5wAKFUyaYQdIE1J7Z8zBp9c3_CWC53Kvzb_sgqYkDxdYfzNgOpGc19UzVOIwzeRhUBeIlV5u5W809b2sXt24e860_4hdpB9wvwlfMkUXdPTJB5orFOJkncBEmhJANTGeSWtAj3ZNRbPkggrGNVCVkNixjZPwCzGq-0w0gwDAgzzQIPjqMksic6usn9bvu2EcJMMFLeYt0iNBbhjDLhz66EAmiri8KQuXdjF_O5H3xyX3V3knGYkyvncRvOKWSTAb36HySAOJyXyj8fD11s3MBe1NpwFeUv_qe_0000__y30000)
 
 ## 4. Phân tích ca sử dụng Maintain Timecard
 
 1. **Mô tả ca sử dụng**
-   
+   - Tác nhân (Actor): Nhân viên hoặc quản lý
+   - Mục tiêu: Thêm hoặc cập nhật thẻ thời gian của nhân viên.
+   - Kết quả mong đợi: Thẻ thời gian được ghi lại và cập nhật vào hệ thống.
+     
+2. ** Lớp phân tích và nhiệm ** 
+   - Employee: Đại diện cho nhân viên, lưu trữ thông tin cơ bản của nhân viên.
+   - Timecard: Chứa dữ liệu về giờ làm việc của nhân viên cho từng ngày.
+   - TimecardRepository: Lưu trữ và quản lý truy xuất dữ liệu thẻ thời gian của nhân viên.
 
-
-
+3. ** Biểu đồ Sequence **
+   - Biểu đồ dưới đây mô tả quy trình thêm hoặc sửa thẻ thời gian cho nhân viên.
+     
 
 
 
