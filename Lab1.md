@@ -69,12 +69,12 @@
    - Mục tiêu: Thêm hoặc cập nhật thẻ thời gian của nhân viên.
    - Kết quả mong đợi: Thẻ thời gian được ghi lại và cập nhật vào hệ thống.
      
-2. ** Lớp phân tích và nhiệm ** 
+2. **Lớp phân tích và nhiệm**
    - Employee: Đại diện cho nhân viên, lưu trữ thông tin cơ bản của nhân viên.
    - Timecard: Chứa dữ liệu về giờ làm việc của nhân viên cho từng ngày.
    - TimecardRepository: Lưu trữ và quản lý truy xuất dữ liệu thẻ thời gian của nhân viên.
 
-3. ** Biểu đồ Sequence **
+3. **Biểu đồ Sequence** 
    
    - Biểu đồ dưới đây mô tả quy trình thêm hoặc sửa thẻ thời gian cho nhân viên.
 ![Diagram](https://www.planttext.com/api/plantuml/png/UhzxlqDnIM9HIMbk3bTYSab-aO9hRa5EVcLgga9YiK9gRW4N42lesYc4PEQc9YSMfGId5fLb9gSgM2c4P1nUbQiV_73tsaI5aeo7ktQ3oDrpCnNICnFpkD3L0us0cHoKMf1Vd0cqgn9eYdVcmztDkGebHI133c_9IrSeoSnJoCiul2XFeIppyAeyBYpQT74v29j-B2w12Q6unEVOXb9aDs3woI4rBmKKK000003__mC0)     
