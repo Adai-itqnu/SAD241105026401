@@ -1,6 +1,6 @@
 # **Phân tích các ca sử dụng trong Payroll System**
 
-## **1. Maintain Timecard (Quản lý bảng chấm công)**
+## **1. Quản lý bảng chấm công**
 ### Mô tả
 - Nhân viên ghi lại giờ làm việc hàng tuần và liên kết với các mã dự án.
 - Chỉ có thể chỉnh sửa bảng chấm công trong kỳ lương hiện tại trước khi nộp.
@@ -16,7 +16,7 @@
 
 ---
 
-## **2. Run Payroll (Chạy bảng lương)**
+## **2. Chạy bảng lương**
 ### Mô tả
 - Tự động tính toán và xử lý bảng lương hàng tuần (thứ Sáu) và ngày làm việc cuối tháng.
 
@@ -34,7 +34,7 @@
 
 ---
 
-## **3. Maintain Employee Information (Quản lý thông tin nhân viên)**
+## **3. Quản lý thông tin nhân viên**
 ### Mô tả
 - Quản trị viên bảng lương có thể thêm, cập nhật, hoặc xóa thông tin nhân viên.
 
@@ -52,7 +52,7 @@
 
 ---
 
-## **4. Maintain Purchase Order (Quản lý đơn đặt hàng)**
+## **4. Quản lý đơn đặt hàng**
 ### Mô tả
 - Nhân viên hưởng hoa hồng có thể tạo, chỉnh sửa hoặc xóa đơn đặt hàng.
 
@@ -69,7 +69,7 @@
 
 ---
 
-## **5. Create Employee Report (Tạo báo cáo nhân viên)**
+## **5. Tạo báo cáo nhân viên**
 ### Mô tả
 - Nhân viên có thể tạo các báo cáo cá nhân, như tổng số giờ làm, số giờ cho từng dự án, số tiền lương nhận được.
 
@@ -84,7 +84,7 @@
 
 ---
 
-## **6. Create Administrative Report (Tạo báo cáo quản trị)**
+## **6. Tạo báo cáo quản trị**
 ### Mô tả
 - Quản trị viên có thể tạo báo cáo như tổng số giờ làm việc hoặc tổng lương năm.
 
@@ -99,7 +99,7 @@
 
 ---
 
-## **7. Select Payment Method (Chọn phương thức thanh toán)**
+## **7. Chọn phương thức thanh toán**
 ### Mô tả
 - Nhân viên có thể chọn phương thức thanh toán (nhận trực tiếp, chuyển khoản, hoặc gửi qua bưu điện).
 
@@ -114,7 +114,7 @@
 
 ---
 
-## **8. Login (Đăng nhập)**
+## **8. Đăng nhập**
 ### Mô tả
 - Nhân viên và quản trị viên có thể đăng nhập để truy cập các tính năng của hệ thống.
 
